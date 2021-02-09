@@ -1,3 +1,3 @@
 <?php
-echo "Kotitehtävä 10";
+echo "<h1>Kotitehtävä 10</h1>";
 ?>
