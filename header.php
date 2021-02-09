@@ -1,3 +1,3 @@
 <?php
-echo "<h1>Otsikko</h1>";
+echo "<h1>header</h1>";
 ?>
