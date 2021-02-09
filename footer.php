@@ -1,3 +1,3 @@
 <?php
-echo "<p>Copyright &copy; " . date("Y") . " yukitsu.fi</p>";
+echo "<footer>Copyright &copy; " . date("Y") . " yukitsu.fi</footer>";
 ?>

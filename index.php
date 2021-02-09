@@ -2,7 +2,7 @@
 <html>
 <head>
 <style>
-    h1 {
+    p {
         color:red;
     }
 </style>
